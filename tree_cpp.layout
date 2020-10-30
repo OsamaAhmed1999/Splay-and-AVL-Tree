@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="driven.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1053" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="wordTree.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="295" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="data.txt" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6592" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bookTree.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7845" topLine="228" />
+		</Cursor>
+	</File>
+	<File name="wordTree.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10555" topLine="137" />
+		</Cursor>
+		<Folding>
+			<Collapse line="27" />
+			<Collapse line="40" />
+			<Collapse line="71" />
+			<Collapse line="78" />
+			<Collapse line="96" />
+			<Collapse line="121" />
+			<Collapse line="145" />
+			<Collapse line="170" />
+			<Collapse line="197" />
+			<Collapse line="242" />
+			<Collapse line="311" />
+			<Collapse line="320" />
+			<Collapse line="353" />
+			<Collapse line="377" />
+		</Folding>
+	</File>
+	<File name="bNode.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="991" topLine="36" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

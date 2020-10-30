@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1603268552 source:c:\users\osama ahmed\downloads\tree\tree_cpp\bnode.cpp
+	"bNode.h"
+
+1603266687 c:\users\osama ahmed\downloads\tree\tree_cpp\bnode.h
+	<string>
+	<iostream>
+	<fstream>
+	<streambuf>
+	<algorithm>
+	<iterator>
+	<vector>
+	"wordTree.h"
+
+1603269932 c:\users\osama ahmed\downloads\tree\tree_cpp\wordtree.h
+	<string>
+	<iostream>
+	<sstream>
+
+1603387618 source:c:\users\osama ahmed\downloads\tree\tree_cpp\booktree.cpp
+	"bookTree.h"
+
+1603270674 c:\users\osama ahmed\downloads\tree\tree_cpp\booktree.h
+	"bNode.h"
+
+1603397690 source:c:\users\osama ahmed\downloads\tree\tree_cpp\driven.cpp
+	"bookTree.h"
+
+1603397641 source:c:\users\osama ahmed\downloads\tree\tree_cpp\wordtree.cpp
+	"wordTree.h"
+
